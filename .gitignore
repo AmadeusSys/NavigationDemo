@@ -1,0 +1,6 @@
+.DS_Store
+备份/
+Podfile.lock
+Pods/*
+target/*
+*.iml
